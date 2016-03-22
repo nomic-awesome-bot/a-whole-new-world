@@ -9,4 +9,6 @@ activePlayers:
     points: 43
   - name: thematrimix
     points: 0
+  - name: testUser
+    points: 10
 inactivePlayers: []
