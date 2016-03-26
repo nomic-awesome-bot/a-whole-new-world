@@ -15,4 +15,6 @@ activePlayers:
     points: 43
   - name: thematrimix
     points: 8
+  - name: nomic-awesome-bot
+    points: 0
 inactivePlayers: []
